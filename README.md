@@ -39,8 +39,8 @@ I'm a web3 software developer <img src="https://media.giphy.com/media/nIoUgc3KW2
  </div>
  <div>
  	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/> &nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="web3js" alt="web3js" width="40" height="40"/> &nbsp;
-	<img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png?v=637807958120000000" title="solidity" alt="solidity" width="40" height="40"/> &nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="40" height="40"/> &nbsp;
+	<img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png?v=637807958120000000" title="web3js" alt="web3js" width="40" height="40"/> &nbsp;
 	<img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=023" title="ethereum" alt="ethereum" width="40" height="40"/> &nbsp;
 	<img src="https://geth.ethereum.org/static/images/mascot.png" title="geth" alt="geth" width="40" height="40"/> &nbsp;	
  </div>
