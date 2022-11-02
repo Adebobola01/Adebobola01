@@ -36,7 +36,8 @@ I'm a web3 software developer <img src="https://media.giphy.com/media/nIoUgc3KW2
 	<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 	<img src="https://trufflesuite.com/img/truffle-logo-dark.svg" title="truffle" alt="truffle" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg title="node.js" alt="node.js" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node.js" alt="node.js" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressJS" alt="expressJS" width="40" height="40"/>&nbsp;
  </div>
  <div>
  	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/> &nbsp;
