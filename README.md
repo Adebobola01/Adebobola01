@@ -21,8 +21,8 @@
 I'm a web3 software developer <img src="https://media.giphy.com/media/nIoUgc3KW2BF5rxVj2/giphy-downsized-large.gif" width="30"> from Nigeria.
 
 
-- :astronaut: Blockchain enthusiast || web3 advocate
-- :technologist: I'm currently improving my skills in web3 software development
+- :astronaut: Blockchain enthusiast.
+- :technologist: I'm currently improving my skills in web2 && web3 software development
 - :people_holding_hands: I’m looking to collaborate on Projects
   
 ---
@@ -34,17 +34,19 @@ I'm a web3 software developer <img src="https://media.giphy.com/media/nIoUgc3KW2
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-	<img src="https://trufflesuite.com/img/truffle-logo-dark.svg" title="truffle" alt="truffle" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" width="40" height=40px"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="github" width="40" height="40"/> &nbsp;	
 	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node.js" alt="node.js" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressJS" alt="expressJS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/> &nbsp;
  </div>
  <div>
- 	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/> &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/> &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+        <img src="https://trufflesuite.com/img/truffle-logo-dark.svg" title="truffle" alt="truffle" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="40" height="40"/> &nbsp;
 	<img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png?v=637807958120000000" title="web3js" alt="web3js" width="40" height="40"/> &nbsp;
 	<img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=023" title="ethereum" alt="ethereum" width="40" height="40"/> &nbsp;
-	<img src="https://geth.ethereum.org/static/images/mascot.png" title="geth" alt="geth" width="40" height="40"/> &nbsp;	
  </div>
   
 ---
