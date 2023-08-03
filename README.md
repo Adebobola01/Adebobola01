@@ -18,7 +18,7 @@
 
 <h3>🤔 About Me:</h3>
 
-I'm a software developer <img src="https://media.giphy.com/media/nIoUgc3KW2BF5rxVj2/giphy-downsized-large.gif" width="30"> from Nigeria.
+I'm a software developer from Nigeria.
 
 
 - :astronaut: Blockchain enthusiast.
